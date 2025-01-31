@@ -1,4 +1,22 @@
-.Detskiy{
-    color: aqua;
-    font-size: 900px;
+body {
+    font-family: sans-serif;
+}
+.Detskiy {
+  color: aqua;
+  font-size: 500px;
+}
+.Dilshod {
+  background: linear-gradient(
+    45deg,
+    red,
+    orange,
+    yellow,
+    green,
+    blue,
+    indigo,
+    violet,
+    red
+  );
+  color: white;
+  font-size: 500px;
 }
